@@ -1,8 +1,7 @@
 ---
 timd: '003'
 title: Slot Number Linked List for Tape Write Ordering
-authors:
-  - Spool Labs
+authors: Spool Labs
 category: Storage
 type: Core
 status: Draft
