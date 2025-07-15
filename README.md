@@ -12,7 +12,7 @@ The goal of TIMDs is to make protocol development transparent, encourage communi
 
 ## Contributing
 
-If you would like to suggest a protocol improvement, open a discussion in the TAPEDRIVE community Discord or GitHub and follow the TIMD proposal format.
+If you would like to suggest a protocol improvement, open a discussion in the TAPEDRIVE community [Discord](https://discord.gg/dVa9TWA45X) or GitHub and follow the TIMD proposal format.
 
 ## Index
 
