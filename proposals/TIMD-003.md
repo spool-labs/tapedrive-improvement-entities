@@ -1,8 +1,7 @@
 ---
 timd: '0003'
 title: Slot Number Linked List for Tape Write Ordering
-authors:
-  - Spool Labs
+authors: Spool Labs
 category: Storage
 type: Core
 status: Draft
@@ -53,12 +52,4 @@ This allows miners to efficiently identify tape boundaries during reconstruction
 
 - **Transaction signature chaining** is client-dependent, inefficient, and not enforceable on-chain.
 - **Waiting for SIMD-0258 (transaction introspection)** would require new SVM features and delay standardization of tape traversal.
-
-## Impact
-
-Slot number linked lists improve program-level consistency, reduce on-chain storage costs, and simplify tape reconstruction. Miners can audit tapes using only standard Solana RPC without special infrastructure or large data fields.
-
-## Security Considerations
-
-Slot numbers are verifiable, deterministic, and part of the core Solana consensus process. This reduces risks of manipulation compared to client-side signature chaining. In scenarios where multiple writes per block are introduced in Solana, miners can still accurately parse segments by inspecting all writes in a slot.
 
