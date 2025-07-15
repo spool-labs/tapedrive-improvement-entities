@@ -6,8 +6,8 @@ The goal of TIMDs is to make protocol development transparent, encourage communi
 
 ## Status Definitions
 
-- **Draft**: Under discussion and not yet implemented
-- **Accepted**: Approved for implementation
+- **Draft**: Under discussion, or development, not yet finalized
+- **Complete**: Tested and ready for devnet
 - **Final**: Fully implemented and active on the network
 
 ## Contributing
@@ -18,7 +18,7 @@ If you would like to suggest a protocol improvement, open a discussion in the TA
 
 | TIMD | Title | Status |
 |------|-------|--------|
-| 0001 | Archive-Backed Mining Rewards and Block-Based Participation | In-progress |
-| 0002 | Updatable Tapes and Finalization Semantics | Dev-Complete |
-| 0003 | Slot Number Linked List for Tape Write Ordering | Draft |
+| 001 | Archive-Backed Mining Rewards and Block-Based Participation | Draft |
+| 002 | Updatable Tapes and Finalization Semantics | Draft |
+| 003 | Slot Number Linked List for Tape Write Ordering | Draft |
 
