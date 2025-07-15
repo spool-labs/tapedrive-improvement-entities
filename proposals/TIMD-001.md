@@ -1,8 +1,7 @@
 ---
-timd: '0001'
-title: Archive-Backed Mining Rewards and Block-Based Participation
-authors:
-  - Spool Labs
+timd: '001'
+title: Mining Rewards and Block-Based Participation
+authors: Spool Labs
 category: Economics
 type: Core
 status: In-Progress

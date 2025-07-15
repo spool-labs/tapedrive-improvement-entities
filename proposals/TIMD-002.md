@@ -1,8 +1,7 @@
 ---
-timd: '0002'
+timd: '002'
 title: Updatable Tapes and Finalization Semantics
-authors:
-  - Spool Labs
+authors: Spool Labs
 category: Storage
 type: Core
 status: Dev-complete
