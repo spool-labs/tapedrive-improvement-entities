@@ -1,5 +1,5 @@
 ---
-timd: '003'
+time: '003'
 title: Slot Number Linked List for Tape Write Ordering
 authors: Spool Labs
 category: Storage
@@ -10,7 +10,7 @@ created: 2025-07-15
 
 ## Summary
 
-This TIMD introduces a **slot number linked list** to improve how segments within a tape are connected in TAPEDRIVE. Each tape write records the **slot number** of the previous write in its Merkle tree leaf, with the **first write slot number** stored in tape account metadata. This replaces CLI-level transaction signature chaining with a more compact, program-enforced structure. The result is simpler and more reliable tape traversal without relying on large data fields or off-chain tooling.
+This TIME introduces a **slot number linked list** to improve how segments within a tape are connected in TAPEDRIVE. Each tape write records the **slot number** of the previous write in its Merkle tree leaf, with the **first write slot number** stored in tape account metadata. This replaces CLI-level transaction signature chaining with a more compact, program-enforced structure. The result is simpler and more reliable tape traversal without relying on large data fields or off-chain tooling.
 
 ## Motivation
 
