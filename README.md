@@ -1,8 +1,8 @@
-# TAPEDRIVE IMprovement Documents (TIMDs)
+# TAPEDRIVE IMprovement Entities (TIMEs)
 
-**TIMDs** are design proposals for significant changes to the TAPEDRIVE protocol. Each TIMD describes a specific change or addition, including its motivation, design details, and expected impact on the network.
+**TIMEs** are design proposals for significant changes to the TAPEDRIVE protocol. Each TIME describes a specific change or addition, including its motivation, design details, and expected impact on the network.
 
-The goal of TIMDs is to make protocol development transparent, encourage community feedback, and create a clear historical record of how TAPEDRIVE evolves over time.
+The goal of TIMEs is to make protocol development transparent, encourage community feedback, and create a clear historical record of how TAPEDRIVE evolves over time.
 
 ## Status Definitions
 
@@ -12,11 +12,11 @@ The goal of TIMDs is to make protocol development transparent, encourage communi
 
 ## Contributing
 
-If you would like to suggest a protocol improvement, open a discussion in the TAPEDRIVE community [Discord](https://discord.gg/dVa9TWA45X) or GitHub and follow the TIMD proposal format.
+If you would like to suggest a protocol improvement, open a discussion in the TAPEDRIVE community [Discord](https://discord.gg/dVa9TWA45X) or GitHub and follow the TIME proposal format.
 
 ## Index
 
-| TIMD | Title | Status |
+| TIME | Title | Status |
 |------|-------|--------|
 | 001 | Archive-Backed Mining Rewards and Block-Based Participation | Draft |
 | 002 | Updatable Tapes and Finalization Semantics | Draft |
