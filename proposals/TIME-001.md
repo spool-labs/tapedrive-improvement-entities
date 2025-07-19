@@ -1,5 +1,5 @@
 ---
-timd: '001'
+time: '001'
 title: Mining Rewards and Block-Based Participation
 authors: Spool Labs
 category: Economics
@@ -10,13 +10,13 @@ created: 2025-07-11
 
 ## Summary
 
-This TIMD introduces a redesign of the TAPEDRIVE mining and reward system. It replaces the existing fixed emission model with a write-fee-backed reward stream and introduces block-based mining with consistency-based participation scoring. The new model directly links archived data to long-term miner rewards and adjusts dynamically based on real-time network conditions.
+This TIME introduces a redesign of the TAPEDRIVE mining and reward system. It replaces the existing fixed emission model with a write-fee-backed reward stream and introduces block-based mining with consistency-based participation scoring. The new model directly links archived data to long-term miner rewards and adjusts dynamically based on real-time network conditions.
 
 ## Motivation
 
 TAPEDRIVE’s initial devnet launch used a static emission curve to distribute rewards to miners, with hardcoded write fees (approximately 1 lamport per byte) that were not tied to rewards. While this allowed early bootstrapping, it lacked economic alignment between storage usage and miner compensation.
 
-This TIMD proposes a new architecture that:
+This TIME proposes a new architecture that:
 
 - Ties rewards directly to archived data via write fees
 - Moves from open-ended mining to discrete, timed blocks
