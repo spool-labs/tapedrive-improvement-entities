@@ -1,5 +1,5 @@
 ---
-timd: '002'
+time: '002'
 title: Updatable Tapes and Finalization Semantics
 authors: Spool Labs
 category: Storage
@@ -10,7 +10,7 @@ created: 2025-07-11
 
 ## Summary
 
-This TIMD introduces **updatable tapes**, a new tape type that allows data owners to make changes to tape segments prior to finalization. Finalized tapes remain immutable and are eligible for inclusion in the TAPEDRIVE archive and mining reward schedule. This mechanism supports dynamic data use cases such as compressed token accounts while preserving the archive's integrity guarantees.
+This TIME introduces **updatable tapes**, a new tape type that allows data owners to make changes to tape segments prior to finalization. Finalized tapes remain immutable and are eligible for inclusion in the TAPEDRIVE archive and mining reward schedule. This mechanism supports dynamic data use cases such as compressed token accounts while preserving the archive's integrity guarantees.
 
 ## Motivation
 
