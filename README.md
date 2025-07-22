@@ -21,4 +21,4 @@ If you would like to suggest a protocol improvement, open a discussion in the TA
 | 001 | Archive-Backed Mining Rewards and Block-Based Participation | Draft |
 | 002 | Updatable Tapes and Finalization Semantics | Draft |
 | 003 | Slot Number Linked List for Tape Write Ordering | Draft |
-
+| 004 | Segment Rent Paid in TAPE | Draft |
