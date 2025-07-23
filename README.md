@@ -1,6 +1,6 @@
 # TAPEDRIVE IMprovement Entities (TIMEs)
 
-**TIMEs** are design proposals for significant changes to the TAPEDRIVE protocol. Each TIME describes a specific change or addition, including its motivation, design details, and expected impact on the network.
+**TIMEs** (previously [TIMDs](https://x.com/tapedrive_io/status/1946476308751696377)) are design proposals for significant changes to the TAPEDRIVE protocol. Each TIME describes a specific change or addition, including its motivation, design details, and expected impact on the network.
 
 The goal of TIMEs is to make protocol development transparent, encourage community feedback, and create a clear historical record of how TAPEDRIVE evolves over time.
 
