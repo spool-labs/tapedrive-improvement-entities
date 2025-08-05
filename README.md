@@ -12,6 +12,7 @@ The goal of TIMEs is to make protocol development transparent, encourage communi
 | 002 | Updatable Tapes and Finalization Semantics | Draft |
 | 003 | Slot Number Linked List for Tape Write Ordering | Draft |
 | 004 | Segment Rent Paid in TAPE | Draft |
+| 005 | Packx Proof-of-Access Algorithm | Draft |
 
 
 ## Contributing
